@@ -1,0 +1,234 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#container
+{
+   display: flex;
+   background-color: white;
+   height: 90px;
+  
+}
+
+ul{
+    display: flex;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(88, 79, 79);
+    padding: 20px; 
+    justify-content: center;
+    margin-top: 5px;
+    
+   
+}
+ul li a:hover
+{
+    color: blue;
+    border-bottom: 2px solid blue;
+}
+ul li{
+    list-style-type: none;
+   
+    font-size: 18px;
+    padding: 16px;
+    
+}
+.logo{
+    height: 35px;
+    width: 140px;
+    margin-left: 100px;
+    margin-top: 2px;
+}
+.mar
+{
+    background-color: white;
+    height: 34px;
+    width: auto;
+    font-size: 24px;
+    font-family: cursive;
+    color: rgb(243, 4, 4);
+}
+
+
+.hh
+{
+  
+    display: flex;
+    font-size: 20px;
+    color: blue;
+
+}
+#bb
+{
+    border: 2px  solid rgb(12, 97, 233);
+    border-radius: 50px;
+    
+}
+.hhh
+{
+    margin-left: 8px;
+    padding: 10px;
+   
+}
+.hhh ul li a{
+    color: blue;
+}
+.cart
+{
+    padding: 18px;
+    color: blue;
+}
+.face-1
+{
+    height: 900px;
+    background-color: white;
+}
+.face-2
+{
+    height: 400px;
+    /* border: 2px solid green; */
+    width: 400px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 450px;
+}
+
+.face-3 img{
+    height: 100px;
+    width: 100px;
+    padding: 0px;
+    margin-top: 5px;
+}
+.face-4
+{
+    font-size: 25px;
+    color: rgb(86, 82, 82);
+}
+.face-5
+{
+    font-size: 35px;
+    font-style: bold;
+    color: rgb(120, 115, 115);
+    padding: 30px;
+}
+.face-6
+{
+    padding-left: 60px;
+}
+.face-7
+{
+    padding-left: 100px;
+    margin-top: 19px;
+    color: blue;
+    
+   
+    
+    
+}
+.face-8
+{
+    padding-left: 180px;
+}
+.face-9 button
+{
+    border-radius: 40px;
+    font-size: 16px;
+    height: 33px;
+    width: 100px;
+    border: none;
+    background-color: rgb(140, 133, 133);
+    margin-left: 150px;
+    color: white;
+}
+.face-9 button:hover
+{
+    background-color: rgb(57, 56, 56);
+}
+
+
+
+
+
+
+
+
+
+
+
+.footer10
+{
+    background-color: black;
+    height: 600px;
+    
+}
+.ff1
+{
+    height: 500px;
+ 
+    display: flex;
+    margin-left: 300px;
+}
+.ff2
+{
+    height: 450px;
+    width: 300px;
+   
+    color: rgb(236, 226, 226);
+}
+.ff3
+{
+    height: 450px;
+    width: 300px;
+    
+    margin-left: 200px;
+    color: white;
+    padding: 45px;
+    margin-top: 25px;
+
+}
+.ff2 h2{
+   padding: 20px;
+   margin-top: 50px;
+}
+.ff2 li{
+    padding: 5px;
+    font-size: large;
+    list-style-type: none;
+
+
+}
+.ff2>li:hover{
+    
+    color: aqua;
+    border-bottom: 2px solid white;
+    border: cover;
+    
+}
+.ff3 h2
+{
+    margin-top: 10px;
+}
+.ff3 h3{
+    margin-top: 20px;
+}
+.ff3 img{
+    margin-top: 10px;
+}
+.horai hr
+{
+ color: aqua;
+}
+.footer10 hr{
+    margin-left: 140px;
+    margin-right: 140px;
+    
+}
+.cop
+{
+    color: white;
+    margin-right: 40px;
+    margin-left: 1100px;
+    margin-top: 10px;
+}

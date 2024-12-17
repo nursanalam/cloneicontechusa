@@ -1,0 +1,339 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#container
+{
+   display: flex;
+   background-color: white;
+   height: 90px;
+  
+}
+
+ul{
+    display: flex;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(88, 79, 79);
+    padding: 20px; 
+    justify-content: center;
+    margin-top: 5px;
+    
+   
+}
+ul li a:hover
+{
+    color: blue;
+    border-bottom: 2px solid blue;
+}
+ul li{
+    list-style-type: none;
+   
+    font-size: 18px;
+    padding: 16px;
+    
+}
+.logo{
+    height: 35px;
+    width: 140px;
+    margin-left: 100px;
+    margin-top: 2px;
+}
+.mar
+{
+    background-color: white;
+    height: 34px;
+    width: auto;
+    font-size: 24px;
+    font-family: cursive;
+    color: rgb(243, 4, 4);
+}
+
+
+.hh
+{
+  
+    display: flex;
+    font-size: 20px;
+    color: blue;
+
+}
+#bb
+{
+    border: 2px  solid rgb(12, 97, 233);
+    border-radius: 50px;
+    
+}
+.hhh
+{
+    margin-left: 8px;
+    padding: 10px;
+   
+}
+.hhh ul li a{
+    color: blue;
+}
+.cart
+{
+    padding: 18px;
+    color: blue;
+}
+#id1
+{
+    height: 350px;
+    background-color: rgb(37, 37, 144);
+    text-align: center;
+    padding: 120px;
+}
+.id3
+{
+    color: white;
+    font-size: x-large;
+    padding: 7px;
+}
+.cou3
+{
+    color: white;
+    padding: 7px;
+}
+.con-1
+{
+    height: 900px;
+}
+.con-2
+{
+    /* border: 2px solid green; */
+    display: flex;
+    height: 800px;
+    padding-left: 90px;
+    padding-top: 20px;
+
+}
+.con-3
+{
+  /* border: 2px solid green; */
+  height: 700px;
+  width: 500px;
+  margin-left: 50px;
+}
+.con-4
+{
+    /* border: 2px solid green; */
+    height: 700px;
+  width: 500px;
+  margin-left: 40px;
+}
+.we-4
+{
+    padding: 20px;
+    margin-left: 150px;
+    font-size: 25px;
+}
+.name-1
+{
+    margin-left: 20px;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.name-1 input{
+    height: 50px;
+    width: 400px;
+    border: 2px solid rgb(177, 171, 171);
+    border-radius: 7px;
+    padding: 20px;
+    font-size: 20px;
+}
+.email-2
+{
+    margin-left: 20px;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.email-2 input{
+    height: 50px;
+    width: 400px;
+    border: 2px solid rgb(177, 171, 171);
+    border-radius: 7px;
+    padding: 20px;
+    font-size: 20px;
+}
+.Subject-3
+{
+    margin-left: 20px;
+    font-size: 30px;
+    padding-top: 20px;
+}
+.Subject-3 input{
+    height: 50px;
+    width: 400px;
+    border: 2px solid rgb(177, 171, 171);
+    border-radius: 7px;
+    padding: 20px;
+    font-size: 20px;
+}
+.message-5
+{
+    margin-left: 20px;
+    font-size: 30px;
+    padding-top: 20px; 
+}
+.message-5 input{
+    height: 50px;
+    width: 400px;
+    border: 2px solid rgb(177, 171, 171);
+    border-radius: 7px;
+    padding: 20px;
+    font-size: 30px;
+}
+.send-1 button
+{
+    height: 40px;
+    width: 200px;
+    margin-left: 250px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-size: large;
+    border-radius: 30px;
+
+
+}
+.send-1
+{
+    padding: 30px;
+}
+.con-9
+{
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 60px;
+}
+.con-10
+{
+    padding:20px;
+    font-size: 17px;
+    margin-left: 60px;
+}
+.con-11
+{
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 60px;
+}
+.con-12
+{
+    padding:20px;
+    font-size: 17px;
+    margin-left: 60px;
+}
+.con-13
+{
+    padding: 20px;
+    font-size: 20px;
+    margin-left: 60px;
+}
+.con-14
+{
+    padding:20px;
+    font-size: 17px;
+    margin-left: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer10
+{
+    background-color: black;
+    height: 600px;
+    
+}
+.ff1
+{
+    height: 500px;
+ 
+    display: flex;
+    margin-left: 300px;
+}
+.ff2
+{
+    height: 450px;
+    width: 300px;
+   
+    color: rgb(236, 226, 226);
+}
+.ff3
+{
+    height: 450px;
+    width: 300px;
+    
+    margin-left: 200px;
+    color: white;
+    padding: 45px;
+    margin-top: 25px;
+
+}
+.ff2 h2{
+   padding: 20px;
+   margin-top: 50px;
+}
+.ff2 li{
+    padding: 5px;
+    font-size: large;
+    list-style-type: none;
+
+
+}
+.ff2>li:hover{
+    
+    color: aqua;
+    border-bottom: 2px solid white;
+    border: cover;
+    
+}
+.ff3 h2
+{
+    margin-top: 10px;
+}
+.ff3 h3{
+    margin-top: 20px;
+}
+.ff3 img{
+    margin-top: 10px;
+}
+.horai hr
+{
+ color: aqua;
+}
+.footer10 hr{
+    margin-left: 140px;
+    margin-right: 140px;
+    
+}
+.cop
+{
+    color: white;
+    margin-right: 40px;
+    margin-left: 1100px;
+    margin-top: 10px;
+}

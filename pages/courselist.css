@@ -1,0 +1,342 @@
+*{
+    margin:0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#container
+{
+   display: flex;
+   background-color: white;
+   height: 90px;
+  
+}
+
+ul{
+    display: flex;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(88, 79, 79);
+    padding: 20px; 
+    justify-content: center;
+    margin-top: 5px;
+    
+   
+}
+ul li a:hover
+{
+    color: blue;
+    border-bottom: 2px solid blue;
+}
+ul li{
+    list-style-type: none;
+   
+    font-size: 18px;
+    padding: 16px;
+    
+}
+.logo{
+    height: 35px;
+    width: 140px;
+    margin-left: 100px;
+    margin-top: 2px;
+}
+.mar
+{
+    background-color: white;
+    height: 34px;
+    width: auto;
+    font-size: 24px;
+    font-family: cursive;
+    color: rgb(243, 4, 4);
+}
+
+
+.hh
+{
+  
+    display: flex;
+    font-size: 20px;
+    color: blue;
+
+}
+#bb
+{
+    border: 2px  solid rgb(12, 97, 233);
+    border-radius: 50px;
+    
+}
+.hhh
+{
+    margin-left: 8px;
+    padding: 10px;
+   
+}
+.hhh ul li a{
+    color: blue;
+}
+.cart
+{
+    padding: 18px;
+    color: blue;
+}
+#id1
+{
+    height: 350px;
+    background-color: rgb(32, 32, 135);
+    text-align: center;
+    padding: 120px;
+}
+.id3
+{
+    color: white;
+    font-size: x-large;
+    padding: 7px;
+}
+.cou3
+{
+    color: white;
+    padding: 7px;
+}
+.cour-1
+{
+    height: 800px;
+}
+.cour-2 button
+{
+    height: 40px;
+    width: 250px;
+    /* padding: 60px; */
+    margin-left: 200px;
+    margin-top: 90px;
+   
+}
+.cour-2 button input{
+    height: 38px;
+    width: 230px;
+    border: none;
+    /* padding: 60px; */
+}
+.cour-2 button i{
+    height: 20px;
+    width: px;
+}
+.cour-3
+
+{
+    display: flex;
+}
+.cour-4 button
+{
+    margin-top: 90px;
+    margin-left: 600px;
+    height: 38px;
+    width: 230px;
+    background-color: none;
+    color: none;
+   
+
+}
+.last
+{
+    height: 600px;
+    width: 800px;
+    /* border: 2px solid green; */
+    margin-left: 200px;
+    display: flex;
+}
+.last-1
+{
+    /* border: 2px solid green; */
+    width: 200px;
+    height: 400px;
+    margin-top: 90px;
+}
+.last-40 button
+{
+    height: 30px;
+    color: rgb(24, 24, 169);
+    padding: 9px;
+    margin-left: 10px;
+    background-color: white;
+    /* border: none; */
+    border-radius: 5px;
+    width: 160px;
+    border: 1px solid blue;
+    margin-top: 10px;
+}
+.last-40 button:hover{
+    background-color: rgb(25, 25, 171);
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+.vv-10
+{
+    height: 500px;
+    width: 250px;
+    border: 1px solid rgb(103, 99, 99);
+    margin-left: 0px;
+    background: rgb(240, 240, 240);
+    margin-top: 50px;
+}
+/* .vv-10:hover{
+    color: rgb(4, 4, 233);
+} */
+.vv-12
+{
+    padding: 17px;
+}
+.vv-13
+{
+    padding: 10px;
+    font-size: 18px;
+    color: rgb(55, 53, 53);
+}
+.vv-13:hover
+{
+    color: rgb(30, 30, 194);
+}
+.it-12 button
+{
+    width: 40px;
+    border-radius: 50%;
+    background-color: rgb(26, 26, 191);
+    padding: 10px;
+    margin-left: 2px;
+    margin-top: 15px;
+}
+.it-12 button:hover
+{
+    background-color: rgb(55, 55, 176);
+}
+.it-12{
+    display: flex;
+}
+.it-12 p{
+    padding: 20px;
+    color: rgb(60, 59, 59);
+}
+.it-12 h4{
+    margin-top: 20px;
+    color: rgba(12, 12, 12, 0.887);
+}
+.it-12 h4:hover
+{
+    color: rgb(35, 35, 187);
+}
+.it-11
+{
+    padding: 0px;
+}
+.it-13 button
+{
+    background-color: white;
+    color: rgb(21, 27, 198);
+    border: 1px  solid rgb(9, 30, 188);
+    width: 220px;
+    margin-left: 19px;
+    height: 38px;
+    font-size: 16px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+.it-13 button:hover
+{
+    background-color: rgb(71, 71, 185);
+    color: white;
+}
+.kk-10
+{
+    margin-left: 60px;
+    margin-top: 0px;
+    color: rgb(10, 9, 9);
+}
+.kk-10:hover{
+        color: rgb(15, 15, 212);
+}
+
+.footer10
+{
+    background-color: black;
+    height: 600px;
+    
+}
+.ff1
+{
+    height: 500px;
+ 
+    display: flex;
+    margin-left: 300px;
+}
+.ff2
+{
+    height: 450px;
+    width: 300px;
+   
+    color: rgb(236, 226, 226);
+}
+.ff3
+{
+    height: 450px;
+    width: 300px;
+    
+    margin-left: 200px;
+    color: white;
+    padding: 45px;
+    margin-top: 25px;
+
+}
+.ff2 h2{
+   padding: 20px;
+   margin-top: 50px;
+}
+.ff2 li{
+    padding: 5px;
+    font-size: large;
+    list-style-type: none;
+
+
+}
+.ff2>li:hover{
+    
+    color: aqua;
+    border-bottom: 2px solid white;
+    border: cover;
+    
+}
+.ff3 h2
+{
+    margin-top: 10px;
+}
+.ff3 h3{
+    margin-top: 20px;
+}
+.ff3 img{
+    margin-top: 10px;
+}
+.horai hr
+{
+ color: aqua;
+}
+.footer10 hr{
+    margin-left: 140px;
+    margin-right: 140px;
+    
+}
+.cop
+{
+    color: white;
+    margin-right: 40px;
+    margin-left: 1100px;
+    margin-top: 10px;
+}
